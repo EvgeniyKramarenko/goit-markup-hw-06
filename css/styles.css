@@ -958,6 +958,13 @@ footer {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.label-link {
+  color: var(--title-text-color);
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+
 .checkbox-label {
   font-size: 14px;
   line-height: 1.71;
